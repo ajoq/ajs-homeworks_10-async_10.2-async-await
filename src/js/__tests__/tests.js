@@ -1,6 +1,6 @@
 import GameSavingLoader from '../GameSavingLoader';
 
-test('GameSavingLoader good', async () => {
+test('GameSavingLoader', async () => {
   const expected = {
     id: 9,
     created: 1546300800,
